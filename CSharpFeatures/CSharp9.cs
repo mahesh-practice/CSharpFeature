@@ -16,6 +16,8 @@ namespace CSharpFeatures
 {
     public class CSharp9
     {
+        public const int MIN_AGE = 18;
+
         public static void NewFeatures()
         {
             // C# 9

@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingStanderds", "CodingSt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{49D0E5E5-816E-4E8C-BA04-239D8B738571}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFramework7", "NetFramework7\NetFramework7.csproj", "{D2C0F394-E665-4517-808F-21EC26DEFB18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetFramework7", "NetFramework7\NetFramework7.csproj", "{D2C0F394-E665-4517-808F-21EC26DEFB18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
